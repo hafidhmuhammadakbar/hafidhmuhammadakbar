@@ -12,5 +12,5 @@
 
 ### About Personal
 - 🔭 I’m now study at Sebelas Maret University  
-- 👀 I’m interested in data analyst
-- 📫 How to reach me: hafidhmuhammadakbar1@student.uns.ac.id
+- 👀 I’m interested in Data Analyst
+- 📫 Contact me: hafidhmuhammadakbar1@student.uns.ac.id
